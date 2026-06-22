@@ -1,0 +1,4 @@
+numpy ≥ 1.24.0
+pandas ≥ 2.0.0
+matplotlib ≥ 3.7.0
+SQLAlchemy ≥ 2.0.0
