@@ -18,15 +18,15 @@ The application:
 
 ## Installation
 
-bash pip install -r requirements.txt 
+pip install -r requirements.txt 
 
 ## Run Project
 
-bash python main.py 
+python main.py 
 
 ## Run Tests
 
-bash python test_selector.py python test_mapper.py 
+python test_selector.py python test_mapper.py 
 
 ## Generated Output
 
@@ -45,3 +45,54 @@ bash python test_selector.py python test_mapper.py
 - SQLAlchemy
 - SQLite
 - unittest
+
+## Documentation
+
+The final report is available in the `docs/` directory.
+
+## Git Workflow
+
+This project was developed using Git for version control and GitHub for repository hosting.
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Vas1261/CSEMDSPWP01_Vasant.git
+cd CSEMDSPWP01_Vasant
+```
+
+### Initial Commit
+
+```bash
+git add .
+git commit -m "Initial commit for IU Programming with Python assignment"
+```
+
+### Push Changes to GitHub
+
+```bash
+git push -u origin main
+```
+
+### Future Updates
+
+Whenever changes are made to the project:
+
+```bash
+git add .
+git commit -m "Describe your changes"
+git push
+```
+
+### Repository Link
+
+GitHub Repository:
+
+https://github.com/Vas1261/CSEMDSPWP01_Vasant
+
+### Version Control Benefits
+
+- Tracks all source code changes.
+- Maintains project history and commit records.
+- Enables backup and collaboration through GitHub.
+- Provides reproducibility and transparency for project development.
